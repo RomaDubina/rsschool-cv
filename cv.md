@@ -6,6 +6,7 @@
 * __Email:__ romadubina1@gmail.com
 * __GitHub:__ [RomanDubina](https://github.com/RomaDubina)
 
+
 ## About Me
 You can rely on me. Responsible. I want to learn something new.
 
@@ -13,6 +14,7 @@ You can rely on me. Responsible. I want to learn something new.
 * HTML(basic)
 * CSS (basic)
 * Git (basic)
+
 
 ## Experience 
 
