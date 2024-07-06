@@ -1,1 +1,1 @@
-https://RomaDubina.github.io/rsschool-cv/
+https://RomaDubina.github.io/rsschool-cv/cv
