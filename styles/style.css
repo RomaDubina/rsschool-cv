@@ -1,0 +1,80 @@
+body{
+    background-color: black;
+    color:black;
+    font-size: 22px;
+    font-family:  "Concert One", sans-serif;
+    margin: 0px;
+}
+
+a{
+    text-decoration: none;
+    color:black;
+}
+
+.link-item{
+    color: white;
+    font-size: 130%;
+}
+
+.nav{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    margin: 0px;
+    padding: 10px 0px;
+}
+
+.item-nav{
+    flex-basis: content;
+}
+
+main{
+    margin: 0 10%;
+    padding: 2%;
+    background-color: rgb(255 255 102);
+}
+
+.container{
+    padding: 0 5px;
+}
+
+.container-contacts-name{
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.container-contacts{
+    padding: 10px 40px;
+}
+
+
+.avatar-photo{
+    width: 370px;
+    height: 450px;
+}
+
+footer{ 
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 5px;
+}
+
+.icon-git, .icon-rs{
+    filter: invert(1);
+}
+.icon-git{
+    width: 30px;
+    height: 30px;
+}
+
+.icon-rs{
+    width: 80px;
+    height: 30px;
+}
+
+.copy{
+    margin: 0;
+}
